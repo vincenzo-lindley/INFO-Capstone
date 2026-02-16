@@ -1,0 +1,42 @@
+[
+    {"team": "packers", "base":"https://www.packers.com"},
+    {"team": "bears", "base":"https://www.chicagobears.com"},
+    {"team": "lions", "base":"https://www.detroitlions.com"},
+    {"team": "vikings", "base":"https://www.vikings.com"},
+    
+    {"team": "patriots", "base":"https://www.patriots.com"},
+    {"team": "dolphins", "base":"https://www.miamidolphins.com"},
+    {"team": "jets", "base":"https://www.newyorkjets.com"},
+    {"team": "bills", "base":"https://www.buffalobills.com"},
+    
+    {"team": "steelers", "base":"https://www.steelers.com"},
+    {"team": "ravens", "base":"https://www.baltimoreravens.com"},
+    {"team": "bengals", "base":"https://www.bengals.com"},
+    {"team": "browns", "base":"https://www.clevelandbrowns.com"},
+    
+    {"team": "colts", "base":"https://www.colts.com"},
+    {"team": "texans", "base":"https://www.houstontexans.com"},
+    {"team": "jaguars", "base":"https://www.jaguars.com"},
+    {"team": "titans", "base":"https://www.tennesseetitans.com"},
+    
+    {"team": "cardinals", "base":"https://www.azcardinals.com"},
+    {"team": "rams", "base":"https://www.therams.com"},
+    {"team": "49ers", "base":"https://www.49ers.com"},
+    {"team": "seahawks", "base":"https://www.seahawks.com"},
+    
+    {"team": "commanders", "base":"https://www.commanders.com"},
+    {"team": "giants", "base":"https://www.giants.com"},
+    {"team": "eagles", "base":"https://www.philadelphiaeagles.com"},
+    {"team": "cowboys", "base":"https://www.dallascowboys.com"},
+    
+    {"team": "raiders", "base":"https://www.raiders.com"},
+    {"team": "chargers", "base":"https://www.chargers.com"},
+    {"team": "broncos", "base":"https://www.denverbroncos.com"},
+    {"team": "chiefs", "base":"https://www.chiefs.com"},
+    
+    {"team": "panthers", "base":"https://www.panthers.com"},
+    {"team": "saints", "base":"https://www.neworleanssaints.com"},
+    {"team": "falcons", "base":"https://www.atlantafalcons.com"},
+    {"team": "buccaneers", "base":"https://www.buccaneers.com"}
+]
+    
